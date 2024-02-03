@@ -1,0 +1,2 @@
+# Genetic-Algorithm-Based-Hyperparameter-Optimization-Framework-for-Machine-Learning-
+Recent AI advancements have given rise to complex models like ChatGPT  but optimizing them is costly. My project uses genetic algorithms to  systematically explore hyperparameter configurations and discover  optimal settings. Innovative approach Surrogate models further cut  expenses, making it accessible to resource-limited organizations.
